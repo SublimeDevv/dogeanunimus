@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @dogeanunimus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dogeanunimus/dogeanunimus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hola, soy Sublime_Cost
+- 👀 Me gusta aprender de manera autodidacta
+- 🌱 Actualmente me encuentro aprendiendo Typescript y Rust
+- 📫 Puedes contactar conmigo a través de Discord Sublime_Const#9913
